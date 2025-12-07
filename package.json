@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/akiojin/clean-workspace-github-action#readme",
   "dependencies": {
-    "rimraf": "6.0.1"
+    "rimraf": "6.1.2"
   },
   "devDependencies": {},
   "private": true
